@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanushka Joshi</h1>
 <h3 align="center">A passionate learner</h3>
 
-<img align="right" alt="hello" width="400"src="![image](https://github.com/kanushkajoshi/kanushkajoshi/assets/146551910/2cca11b7-83a9-4b72-a656-b3405f50a2f3)
+<img align="right" alt="hello" width="200"src="![image](https://github.com/kanushkajoshi/kanushkajoshi/assets/146551910/2cca11b7-83a9-4b72-a656-b3405f50a2f3)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanushkajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="kanushkajoshi" /> </p>
