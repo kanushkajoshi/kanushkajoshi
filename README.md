@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanushka Joshi</h1>
 <h3 align="center">A passionate learner</h3>
 
-<img align="right" alt="hello"width="400"src="![image](https://github.com/kanushkajoshi/kanushkajoshi/assets/146551910/6a8576cc-e4df-4fb0-a750-f4dc311a9cea)
-f">
+<img align="right" alt="hello"width="400"src="C:\Users\joshi\Downloads\anime-wave-anime-hi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanushkajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="kanushkajoshi" /> </p>
 
