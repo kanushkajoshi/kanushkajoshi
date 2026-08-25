@@ -14,12 +14,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanushkajoshi&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kanushkajoshi&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
+![trophy](https://github-trophies.vercel.app/?username=kanushkajoshi&theme=algolia&no-frame=true&no-bg=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kanushkajoshi&icon=0&color=3)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=kanushkajoshi&color=6EE7B7&style=flat)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
